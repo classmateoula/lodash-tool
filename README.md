@@ -7,12 +7,12 @@ You can use webpack for your project.
 
 Using npm:
 ```shell
-$ npm i --save lodash-ts
+$ npm i --save lodash-tool
 ```
 
 In Node.js:
 ```ts
-import isArray from 'lodash-ts/isArray';
+import isArray from 'lodash-tool/isArray';
 ```
 
 **Note:**<br>
