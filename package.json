@@ -1,6 +1,6 @@
 {
 	"name": "lodash-tool",
-	"version": "1.2.7",
+	"version": "2.3.7",
 	"description": "lodash in TypeScript.",
 	"main": "index.js",
 	"scripts": {
@@ -24,7 +24,7 @@
 		"url": "https://github.com/classmateoula/lodash-tool/issues"
 	},
 	"readme": "README.md",
-	"homepage": "https://github.com/taoqf/lodash#readme",
+	"homepage": "https://classmateoula.github.io/lodash-tool",
 	"devDependencies": {
 		"del": "3.0.0",
 		"gulp": "3.9.1",
